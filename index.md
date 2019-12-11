@@ -1,5 +1,3 @@
-title: "AAR - Programming"
-
 # Hello World
 
 
