@@ -2,3 +2,4 @@
 * Lego Avengers Endgame Xbox one
 * Samsung tablet(replacing my iPad because its getting old)
 * New cycle(for middle school)
+* money
