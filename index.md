@@ -20,9 +20,9 @@ Welcome to my website.
 
 ## My favorite books are(Dutch books):
 * [Niek De Groot (stripseries)](https://www.graphic-novels.nl/boeken/niek-de-groot/)
-* [Flip Fiasco (stripseries)]
-* Dummie de mummie (series)
-* Harry Potter (series)
+* [Flip Fiasco (stripseries)](https://www.graphic-novels.nl/boeken/flip-fiasco/)
+* [Dummie de mummie (stripseries)](https://dummiedemummie.nl/)
+* [Harry Potter (series)](https://harrypotter.fandom.com/nl/wiki/Harry_Potter_(boekenserie)) 
 * De Waanzinnige Boomhut (stripseries)
 * Het leven van een loser (stripseries)
 * Donald Duck (stripseries)
