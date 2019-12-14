@@ -8,6 +8,7 @@ Welcome to my website.
 
 [My favorite colors are](favoclrs.md)
 
+[Books that I want to read](iwanttoread.md)
 
 [Here are the books I have read](books.md)
 
