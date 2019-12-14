@@ -7,3 +7,6 @@
 ![Image](images/gaatuitzijndak.jpeg "Gaat uit zijn dak")
 ![Image](images/intopvorm.png "In top vorm")
 ![Image](images/flikthetmweer.jpeg "Flikt het m weer")
+![Image](images/draaitdoor.jpeg "Draait door")
+![Image](images/vakantieboek.png "Vakantieboek")
+![Image](images/enzijnvrienden.png "En zijn vrienden")
