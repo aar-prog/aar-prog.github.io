@@ -18,7 +18,9 @@ Welcome to my website.
 * Indigo
 * Maroon
 
-[here are the books I have read](books.md)
+[Here are the books I have read](books.md)
+
+[List of gifts I would like to get for my birthday](b-daygifts.md)
 
 
 
