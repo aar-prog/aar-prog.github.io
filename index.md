@@ -6,17 +6,8 @@
 Hello World, this is Aarush.
 Welcome to my website.
 
-## My favorite colors are:
-* Red
-* Blue
-* Green
-* Gold
-* Yellow
-* Purple
-* Black
-* Silver
-* Indigo
-* Maroon
+[My favorite colors are](favoclrs.md)
+
 
 [Here are the books I have read](books.md)
 
