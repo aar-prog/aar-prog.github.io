@@ -13,3 +13,7 @@
 
 ## Flip Fiasco series
 ![Image](images/oops.png "Oops")
+![Image](images/schoongenoeg.jpeg "Schoon genoeg")
+
+## Het leven van een loser series
+![Image](images/allerbestevriend.jpeg "Allerbeste vriend")
