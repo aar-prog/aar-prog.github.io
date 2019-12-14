@@ -1,3 +1,4 @@
+[Home](index.md)
 # Books I have read
 * [Niek De Groot (stripseries)](https://www.graphic-novels.nl/boeken/niek-de-groot/)
 * [Flip Fiasco (stripseries)](https://www.graphic-novels.nl/boeken/flip-fiasco/)

@@ -1,3 +1,4 @@
+[Home](index.md)
 # Here are my favorite colors:
 * Red
 * Blue
