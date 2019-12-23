@@ -1,4 +1,4 @@
-# Aarush's 1st website
+# Aarush's website
 
 
 ### Intro

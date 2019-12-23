@@ -5,6 +5,3 @@
 * Lego Avengers Endgame Xbox one
 * Robux gift card(any price)
 * A snowglobe
-* 
-* 
-* 
