@@ -9,6 +9,6 @@ Check out these links if you want to know more about me.
 
 [My favorite colors](favoclrs.md)
 
-[Books that I want to read](iwanttoread.md)
+[My favorite books](iwanttoread.md)
 
 [List of gifts I would like to get for my birthday](b-daygifts.md)
