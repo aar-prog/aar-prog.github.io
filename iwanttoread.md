@@ -1,12 +1,6 @@
 [home](index.md)
 # Books I have read:
-* [Dummie de mummie (stripseries)](https://dummiedemummie.nl/)
-* [Harry Potter (series)](https://harrypotter.fandom.com/nl/wiki/Harry_Potter_(boekenserie)) 
-* [De Waanzinnige Boomhut (stripseries)](https://ikvindlezenleuk.nl/2018/02/griffiths-boomhut-91verdiepingen/)
-* [Het leven van een loser (stripseries)](https://www.graphic-novels.nl/boeken/het-leven-van-een-loser/)
-* [Donald Duck (stripseries)](https://disney.fandom.com/wiki/Donald_Duck_in_comics)
-
-* [Niek De Groot (stripseries)]
+* [Niek De Groot (serie)]
 
 ![Image](images/brokkenpiloot.jpg "Brokkenpiloot")
 
@@ -14,15 +8,30 @@
 
 ![Image](images/lekkerbezig.jpg "Lekker bezig")
 
-* [Flip Fiasco (stripseries)]
+* [Flip Fiasco (serie)]
 
 ![Image](images/watnuweer.jpg "Wat nu weer")
 
 ![Image](images/nogeenkeer.jpg "Nog een keer")
 
-# Books that I want to read:
+* [Het leven van een loser (serie)]
+### [I have almost read everything of Het leven van een loser(English and Dutch).English](https://wimpykid.com/)
+### [dutch](https://www.graphic-novels.nl/boeken/het-leven-van-een-loser/)
 
-## Niek De Groot series
+* [Dummie de mummie (serie)]
+### [I have read all the books of Dummie de Mummie.](https://dummiedemummie.nl/)
+
+* [Harry Potter (serie)]
+### [I have read all the books of Harry Potter.English](https://harrypotter.fandom.com/wiki/Harry_Potter) 
+### [dutch](https://harrypotter.fandom.com/nl/wiki/Harry_Potter_(boekenserie))
+
+* [De Waanzinnige Boomhut (serie)]
+### [I have read all the books of De Waanzinnige Boomhut(in english and almost in dutch).English](https://www.goodreads.com/book/show/12823835-the-13-storey-treehouse)
+### [dutch](https://ikvindlezenleuk.nl/2018/02/griffiths-boomhut-91verdiepingen/)
+
+# Books that I want to/still read:
+
+## Niek De Groot serie
 ![Image](images/NiekDeGrootSlaatToe.png "Slaat toe")
 ![Image](images/baasbovenbaas.jpeg "Baas boven baas")
 ![Image](images/gaatuitzijndak.jpeg "Gaat uit zijn dak")
@@ -32,9 +41,12 @@
 ![Image](images/vakantieboek.png "Vakantieboek")
 ![Image](images/enzijnvrienden.png "En zijn vrienden")
 
-## Flip Fiasco series
+## Flip Fiasco serie
 ![Image](images/oops.png "Oops")
 ![Image](images/schoongenoeg.jpeg "Schoon genoeg")
 
-## Het leven van een loser series
+## Het leven van een loser serie
 ![Image](images/allerbestevriend.jpeg "Allerbeste vriend")
+
+* [Donald Duck (stripserie)]
+### [These books come out everyday so im still reading them](https://disney.fandom.com/wiki/Donald_Duck_in_comics)
