@@ -15,7 +15,7 @@
 ![Image](images/nogeenkeer.jpg "Nog een keer")
 
 * [Het leven van een loser (serie)]
-### I have almost read everything of Het leven van een loser.
+### I have read all the books of Het leven van een loser.
 
 ### [English](https://wimpykid.com/)
 
