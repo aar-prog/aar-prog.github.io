@@ -4,7 +4,7 @@
 
 ![Image](images/brokkenpiloot.jpg "Brokkenpiloot")
 
-![Image](images/kladdeneroplos.jpeg "Kladt erop los")
+![Image](images/kladtoplos.jpeg "Kladt erop los")
 
 ![Image](images/lekkerbezig.jpg "Lekker bezig")
 
@@ -15,18 +15,27 @@
 ![Image](images/nogeenkeer.jpg "Nog een keer")
 
 * [Het leven van een loser (serie)]
-### [I have almost read everything of Het leven van een loser(English and Dutch).English](https://wimpykid.com/)
+### I have almost read everything of Het leven van een loser.
+
+### [English](https://wimpykid.com/)
+
 ### [dutch](https://www.graphic-novels.nl/boeken/het-leven-van-een-loser/)
 
 * [Dummie de mummie (serie)]
 ### [I have read all the books of Dummie de Mummie.](https://dummiedemummie.nl/)
 
 * [Harry Potter (serie)]
-### [I have read all the books of Harry Potter.English](https://harrypotter.fandom.com/wiki/Harry_Potter) 
+### I have read all the books of Harry Potter.
+
+### [English](https://harrypotter.fandom.com/wiki/Harry_Potter)
+
 ### [dutch](https://harrypotter.fandom.com/nl/wiki/Harry_Potter_(boekenserie))
 
 * [De Waanzinnige Boomhut (serie)]
-### [I have read all the books of De Waanzinnige Boomhut(in english and almost in dutch).English](https://www.goodreads.com/book/show/12823835-the-13-storey-treehouse)
+### I have read all the books of De Waanzinnige Boomhut.
+
+### [English](https://www.goodreads.com/book/show/12823835-the-13-storey-treehouse)
+
 ### [dutch](https://ikvindlezenleuk.nl/2018/02/griffiths-boomhut-91verdiepingen/)
 
 # Books that I want to/still read:
