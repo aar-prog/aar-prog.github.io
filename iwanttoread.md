@@ -4,7 +4,7 @@
 
 ![Image](images/brokkenpiloot.jpg "Brokkenpiloot")
 
-![Image](images/kladtoplos.jpeg "Kladt erop los")
+![Image](images/kladtoplos.jpeg "Kladt erop los!")
 
 ![Image](images/lekkerbezig.jpg "Lekker bezig")
 
