@@ -19,7 +19,7 @@
 
 ### [English](https://wimpykid.com/)
 
-### [dutch](https://www.graphic-novels.nl/boeken/het-leven-van-een-loser/)
+### [Dutch](https://www.graphic-novels.nl/boeken/het-leven-van-een-loser/)
 
 * [Dummie de mummie (serie)]
 ### [I have read all the books of Dummie de Mummie.](https://dummiedemummie.nl/)
