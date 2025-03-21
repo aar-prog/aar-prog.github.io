@@ -13,4 +13,4 @@
 * ## Il Maestro e Margherita
 <img src="images/margherita.jpg" width="200"></img>
 * ## If I Did It
-<img src="images/OJ.jpg" width="20"></img>
+<img src="images/OJ.jpg" width="200"></img>
